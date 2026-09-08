@@ -23,6 +23,11 @@ users:
     teams: []
   - username: asraa
     role: member
+  - username: baszalmstra
+    role: member
+    teams:
+      - name: sigstore-rust-codeowners
+        role: member
   - username: bdehamer
     role: member
     teams:
